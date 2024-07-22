@@ -11,6 +11,5 @@ The goal of this project is to create a Minecraft Forge mod for version 1.20.1 t
 - Ensure compatibility with other installed mods (including Quark, Create, Chipped, etc.).
 - Integrate with JEI (Just Enough Items) for specifying items and quantities.
 - Handle partial item retrieval if the full requested amount is not available.
-
-## Motivation
+### Motivation
 The project is being built to improve the efficiency and convenience of item management in Minecraft. By automating the process of fetching items from storage chests, players can save time and effort, allowing them to focus on other aspects of gameplay. This mod aims to enhance the overall player experience, particularly for those with extensive storage systems and multiple mods installed. Additionally, the project provides an opportunity for the developers to learn and apply modding techniques, collaborate using GitHub, and engage in a meaningful and creative coding project.
